@@ -1,0 +1,4 @@
+Compilar da seguinte forma: gcc -Wall  libfila.c libpilha.c libjogo.c jogo.c -o jogo -lncurses
+O txt "matriz" vai ser usado para carregar o mapa do jogo
+Antes de executar o jogo, deixar o terminal em tela cheia para que todas as informações apareçam conforme esperado
+Executar o comando "./jogo"
